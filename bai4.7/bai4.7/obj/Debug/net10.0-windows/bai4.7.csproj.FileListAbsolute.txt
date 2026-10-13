@@ -1,0 +1,17 @@
+G:\.net\bai4.7\bai4.7\bin\Debug\net10.0-windows\bai4.7.exe
+G:\.net\bai4.7\bai4.7\bin\Debug\net10.0-windows\bai4.7.deps.json
+G:\.net\bai4.7\bai4.7\bin\Debug\net10.0-windows\bai4.7.runtimeconfig.json
+G:\.net\bai4.7\bai4.7\bin\Debug\net10.0-windows\bai4.7.dll
+G:\.net\bai4.7\bai4.7\bin\Debug\net10.0-windows\bai4.7.pdb
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4._7.Form1.resources
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.csproj.GenerateResource.cache
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.AssemblyInfoInputs.cache
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.AssemblyInfo.cs
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.csproj.CoreCompileInputs.cache
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.dll
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\refint\bai4.7.dll
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.pdb
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.genruntimeconfig.cache
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\ref\bai4.7.dll
+G:\.net\bai4.7\bai4.7\obj\Debug\net10.0-windows\bai4.7.csproj.Up2Date
